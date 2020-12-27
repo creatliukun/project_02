@@ -3,3 +3,7 @@ function reg(res) {
     console.log(res);
 }
 reg();
+function re(re) {
+    console.log(re);
+}
+re();
